@@ -1,0 +1,6 @@
+#!/bin/bash
+ICON=$HOME/.config/xlock/icon.png
+TMPBG=/tmp/screen.png
+scrot /tmp/screen.png
+convert $TMPBG -spread 12 $TMPBG
+i3lock -e -i $TMPBG  -k --indicator --radius 250 --ringcolor=a54242ff --insidecolor=232323cc --datecolor=a54242ff --timecolor=a54242ff --datefont="Noto Sans" --timefont="Noto Sans" --datesize=30 --timesize=60 --timestr="%H:%M" --ringvercolor=b5bd68ff --insidevercolor=b5bd68cc --ringwrongcolor=cc6666ff --insidewrongcolor=cc6666cc --keyhlcolor=b5bd68ff --bshlcolor=b294bbff
