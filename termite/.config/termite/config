@@ -7,7 +7,7 @@ allow_bold = true
 dynamic_title = true
 urgent_on_bell = true
 clickable_url = true
-font = Hack 22 
+font = Hack 22
 scrollback_lines = 10000
 search_wrap = true
 #icon_name = terminal
@@ -31,36 +31,6 @@ filter_unmatched_urls = true
 # emit escape sequences for extra modified keys
 #modify_other_keys = false
 
-[colors]
-#cursor = #dcdccc
-#cursor_foreground = #dcdccc
-foreground = #dcdccc
-foreground_bold = #ffffff
-background = #3f3f3f
-
-# 20% background transparency (requires a compositor)
-#background = rgba(63, 63, 63, 0.8)
-
-# if unset, will reverse foreground and background
-highlight = #2f2f2f
-
-# colors from color0 to color254 can be set
-color0 = #232323
-color1 = #a54242
-color2 = #8c9440
-color3 = #dfa752
-color4 = #5f819d
-color5 = #85678f
-color6 = #5e8d87
-color7 = #898989
-color8 = #709080
-color9 = #cc6666
-color10 = #b5bd68
-color11 = #f0c674
-color12 = #81a2be
-color13 = #b294bb
-color14 = #8abeb7
-color15 = #eeeeee
 
 [hints]
 #font = Consolas 30
@@ -74,3 +44,24 @@ color15 = #eeeeee
 #roundness = 2.0
 
 # vim: ft=dosini cms=#%s
+[colors]
+background = rgba(40, 42, 54, .98)
+foreground = #cccccc
+cursor = #b9b9b9
+
+color0 = #666666
+color1 = #cc6699
+color2 = #99cc66
+color3 = #cc9966
+color4 = #6699cc
+color5 = #9966cc
+color6 = #66cc99
+color7 = #cccccc
+color8 = #999999
+color9 = #ff99cc
+color10 = #ccff99
+color11 = #ffcc99
+color12 = #99ccff
+color13 = #cc99ff
+color14 = #99ffcc
+color15 = #ffffff

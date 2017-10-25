@@ -17,26 +17,44 @@
 # Tab = TAB key
 
 #dark grey bg theme-i $ICONs
-	set $bgdark #18171d
-	set $bglight #303030
-	set $highlight #eeeeee
-	set $white #898989
-	set $bgtrans argb:BB232323
+#	set $bgdark #18171d
+#	set $bglight #303030
+#	set $highlight #eeeeee
+#	set $white #898989
+#	set $bgtrans argb:BB232323
 
 #terminal colors (Hybrid by w0ng)
-	set $red #a54242
-	set $green #8c9440
-	set $yellow #dfa752
-	set $blue #5f819d
-	set $purple #85678f
-	set $cyan #5e8d87
+#	set $red #a54242
+#	set $green #8c9440
+#	set $yellow #dfa752
+#       set $blue #5f819d
+#	set $purple #85678f
+#	set $cyan #5e8d87
+#
+#	set $lred #cc6666
+#	set $lgreen #b5bd68
+#	set $lyellow #f0c674
+#	set $lblue #81a2be
+#	set $lpurple #b294bb
+#	set $lcyan #8abeb7
 
-	set $lred #cc6666
-	set $lgreen #b5bd68
-	set $lyellow #f0c674
-	set $lblue #81a2be
-	set $lpurple #b294bb
-	set $lcyan #8abeb7
+set $base00 #282936 #background
+set $base01 #3a3c4e
+set $base02 #4d4f68
+set $base03 #626483
+set $base04 #62d6e8
+set $base05 #e9e9f4 #forground
+set $base06 #f1f2f8
+set $base07 #f7f7fb
+set $base08 #ea51b2
+set $base09 #b45bcf
+set $base0A #00f769
+set $base0B #ebff87
+set $base0C #a1efe4
+set $base0D #62d6e8
+set $base0E #b45bcf
+set $base0F #00f769
+
 #####################################################################################################################
 #################                          Define the $mod variable/key                             #################
 #####################################################################################################################
@@ -139,8 +157,8 @@ bindsym $mod+shift+d exec --no-startup-id dmenu_run -i -nb '#191919' -nf '#fea63
 
 # start rofi small
 #bindsym $mod+d exec --no-startup-id rofi -show run -lines 3 -eh 2 -font "Segoe UI 18" -width 100 -padding 800 -opacity "85" -bw 0 -separator-style none
-bindsym $mod+d exec --no-startup-id rofi -show run -lines 3 -eh 2  -padding 10 -seperator-style "none" -font "Fyodor Bold 40" -columns 3          
-bindsym $mod+w exec --no-startup-id rofi -show window -lines 10 -eh 2 -padding 10 -seperator-style "none" -font "Fyodor Bold 40"          
+bindsym $mod+d exec --no-startup-id rofi -show run -lines 3 -eh 2  -padding 10 -seperator-style "none" -font "Fyodor Bold 40" -columns 3
+bindsym $mod+w exec --no-startup-id rofi -show window -lines 10 -eh 2 -padding 10 -seperator-style "none" -font "Fyodor Bold 40"
 # gmrun
 bindsym mod1+F2 exec --no-startup-id gmrun
 
@@ -462,7 +480,7 @@ exec --no-startup-id volumeicon
 
 #variety
 #exec --no-startup-id variety
-exec --no-startup-id feh --bg-tile ~/.config/wallpaper/dark-flower-tille.png 
+exec --no-startup-id feh --bg-tile ~/.config/wallpaper/dark-flower-tille.png
 
 # clipit
 exec --no-startup-id clipit
@@ -727,7 +745,7 @@ popup_during_fullscreen smart
 
 
 #####################################################################################################################
-#################                          i3 gaps next                                             #################
+#################                          i3 gaps
 #####################################################################################################################
 
 # Settings for I3 next gap git
@@ -861,28 +879,48 @@ status_command i3blocks -c ~/.config/i3/i3blocks.conf
 #         inactive_workspace    #a9a9a9 #5f676a #a9a9a9
 #         urgent_workspace      #4A4A4A #4A4A4A #a9a9a9
 #         }
-colors{
-        background $bgdark
+#colors{
+#        background $bgdark
         #                     border   background text
-        focused_workspace   $bgdark  $bgdark    $red
-        active_workspace    $red     $red       $white
-        inactive_workspace  $bgdark  $bgdark    $white
-        urgent_workspace    $bglight $bglight   $white
-        binding_mode        $purple  $purple    $white
-      }
-    }
+#        focused_workspace   $bgdark  $bgdark    $red
+#        active_workspace    $red     $red       $white
+#        inactive_workspace  $bgdark  $bgdark    $white
+#        urgent_workspace    $bglight $bglight   $white
+#        binding_mode        $purple  $purple    $white
+#      }
+#    }
 
 
 # DarkGrey background with white text - not focus grey background - black text
 # Windows decoration colors
 # class                 border  backgr. text    indicator
-client.placeholder      #242424 #242424 #242424
-client.background       #242424 #242424 #242424
-client.focused          #4A4A4A #4A4A4A #e5e5e5 #4A4A4A
-client.unfocused        #222222 #222222 #aaaaaa #222222
-client.focused_inactive #222222 #222222 #a9a9a9 #222222
-client.urgent           #4A4A4A #4A4A4A #f7f7f7 #4A4A4A
+#client.placeholder      #242424 #242424 #242424
+#client.background       #242424 #242424 #242424
+#client.focused          #4A4A4A #4A4A4A #e5e5e5 #4A4A4A
+#client.unfocused        #222222 #222222 #aaaaaa #222222
+#client.focused_inactive #222222 #222222 #a9a9a9 #222222
+#client.urgent           #4A4A4A #4A4A4A #f7f7f7 #4A4A4A
+colors {
+        background $base00
+        separator  $base01
+        statusline $base04
 
+        # State             Border  BG      Text
+        focused_workspace   $base05 $base0D $base00
+        active_workspace    $base03 $base03 $base00
+        inactive_workspace  $base01 $base01 $base05
+        urgent_workspace    $base08 $base08 $base00
+        binding_mode        $base00 $base0A $base00
+    }
+}
+# Basic color configuration using the Base16 variables for windows and borders.
+# Property Name         Border  BG      Text    Indicator Child Border
+client.focused          #e9e9f4 #6286d8 $base00 #62d6e8 #6286d8
+client.focused_inactive $base01 $base01 $base05 $base03 $base01
+client.unfocused        $base01 $base00 $base05 $base01 $base01
+client.urgent           $base08 $base08 $base00 $base08 $base08
+client.placeholder      $base00 $base00 $base05 $base00 $base00
+client.background       $base07
 
 #################################################################
 ################### BAR APPEARANCE ARCHIVE ######################

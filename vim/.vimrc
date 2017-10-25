@@ -46,6 +46,7 @@ call plug#begin('~/' . s:configdir . '/Plug')
   Plug 'clojure-vim/async-clj-omni'
 
   Plug 'w0rp/ale'
+  Plug 'chrisbra/Colorizer'
 
   " colors n shit
   Plug 'NLKNguyen/papercolor-theme'
@@ -140,7 +141,7 @@ let g:NERDTreeMapActivateNode="<F3>"
 let g:NERDTreeMapPreview="<F4>"
 " }}}
 
-" {{{ Misc
+" {{{ Misc+ VIM unreadable
 
 " set title and allow hidden buffers
 set title
@@ -196,8 +197,14 @@ let &t_EI = "\<Esc>[2 q"
 
 " Colors
 set background=dark
-colorscheme dracula
 set encoding=utf-8
+if filereadable(expand("~/.vimrc_background"))
+  let base16colorspace=256
+  source ~/.vimrc_background
+endif
+" color dracula
+let g:theme_name = 'dracula'
+let g:airline_theme = 'airlineish'
 
 " General UI Options
 set mouse=a
