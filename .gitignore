@@ -1,0 +1,7 @@
+vim/.config/nvim/autoload
+vim/.config/nvim/backups
+vim/.config/nvim/bundle
+vim/.config/nvim/cache
+vim/.config/nvim/Plug
+vim/.config/nvim/swaps
+vim/.config/nvim/undo
