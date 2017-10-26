@@ -63,10 +63,10 @@ if xrandr -q | grep -q "VIRTUAL1 conn"; then
 fi
 
 if bspc monitor $mon_external; then
-  bspc monitor $mon_internal --reset-desktops term web code ws_4 ws_5 ws_6 ws_7 ws_8 music irssi
-  bspc monitor $mon_external --reset-desktops term web code ws_4 ws_5 ws_6 ws_7 ws_8 ws_9 ws_0
+  bspc monitor $mon_internal --reset-desktops  web term ws_3 ws_4 ws_5 code ws_7 ws_8 comms music
+  bspc monitor $mon_external --reset-desktops  web term ws_3 ws_4 ws_5 code ws_7 ws_8 ws_9 ws_0
 else
-  bspc monitor $mon_internal --reset-desktops term web code ws_4 ws_5 ws_6 ws_7 ws_8 music irssi
+  bspc monitor $mon_internal --reset-desktops web term ws_3 ws_4 ws_5 code ws_7 ws_8 comms music
 fi
 
 bspc config pointer_follows_monitor "${setting_pointer_follow_monitor:-true}"
@@ -109,6 +109,12 @@ bspc rule -a Gimp "state=floating"
 bspc rule -a Steam "state=floating"
 bspc rule -a Yad "state=floating"
 bspc rule -a float "state=floating"
+
+bspc rule -a Slack desktop=comms follow=true
+bspc rule -a wavebox desktop=comms follow=true
+bspc rule -a Enpass-Desktop desktop=ws_5 state=floating
+
+bspc rule -a jetbrains-idea desktop=code follow=true
 
 bspc config external_rules_command "$LOCAL_ETC/bspwm/external_rules"
 
@@ -175,10 +181,12 @@ bspc query -D | while read -r ws; do
 done
 
 # }}}
-#Stalonetray
-/usr/bin/stalonetray -c ${XDG_CONFIG_HOME}/stalonetray/stalonetrayrc
 echo "bspwm configuration loaded..."
 
 if [[ -n "$(type theme::post_bspwmrc 2>/dev/null)" ]]; then
   theme::post_bspwmrc 2>/dev/null &
 fi
+wavebox &
+slack &
+nm-applet &
+enpass &
