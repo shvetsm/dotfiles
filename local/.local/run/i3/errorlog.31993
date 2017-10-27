@@ -1,0 +1,12 @@
+ERROR: Expected one of these tokens: <end>, '[', 'move', 'exec', 'exit', 'restart', 'reload', 'shmlog', 'debuglog', 'border', 'layout', 'append_layout', 'workspace', 'focus', 'kill', 'open', 'fullscreen', 'sticky', 'split', 'floating', 'mark', 'unmark', 'resize', 'rename', 'nop', 'scratchpad', 'swap', 'title_format', 'mode', 'bar', 'gaps'
+ERROR: Your command: scrarchpad
+ERROR:               ^^^^^^^^^^
+ERROR: Expected one of these tokens: <end>, '[', 'move', 'exec', 'exit', 'restart', 'reload', 'shmlog', 'debuglog', 'border', 'layout', 'append_layout', 'workspace', 'focus', 'kill', 'open', 'fullscreen', 'sticky', 'split', 'floating', 'mark', 'unmark', 'resize', 'rename', 'nop', 'scratchpad', 'swap', 'title_format', 'mode', 'bar', 'gaps'
+ERROR: Your command: scrarchpad open
+ERROR:               ^^^^^^^^^^^^^^^
+ERROR: Expected one of these tokens: 'show'
+ERROR: Your command: scratchpad
+ERROR:                         
+ERROR: Expected one of these tokens: 'show'
+ERROR: Your command: scratchpad
+ERROR:                         

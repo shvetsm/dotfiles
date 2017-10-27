@@ -1,15 +1,16 @@
 # If you come from bash you might have to change your $PATH.
 
-export PATH=$HOME/bin:/usr/local/bin:/home/mshvets/.gem/ruby/2.4.0:$PATH
+source ~/.profile
+
+export PATH=$HOME/bin:/usr/local/bin:$PATH
 EDITOR=nvim
 # Path to your oh-my-zsh installation.
-  export ZSH=/home/mshvets/.oh-my-zsh
+export ZSH=/home/mshvets/.oh-my-zsh
 eval "$(ssh-agent -s)"
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 ZSH_THEME="mshvets"
-alias dots='git --git-dir=$HOME/.dots.git/ --work-tree=$HOME'
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -53,7 +54,7 @@ alias dots='git --git-dir=$HOME/.dots.git/ --work-tree=$HOME'
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git base16-shell)
+plugins=(git)
 
 source $ZSH/oh-my-zsh.sh
 

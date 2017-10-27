@@ -20,6 +20,7 @@ call plug#begin('~/' . s:configdir . '/Plug')
   Plug 'tpope/vim-sensible'                   " sensible defaults.
   Plug 'tpope/vim-fugitive'                   " Complement git in vim - todo: learn this.
   Plug 'tpope/vim-sleuth'                     " Auto spacing/indenting conformity to files
+  Plug 'tpope/vim-surround'
 
   Plug 'vim-airline/vim-airline'              " Status line
   Plug 'jeffkreeftmeijer/vim-numbertoggle'    " Auto relative number toggling
@@ -56,6 +57,7 @@ call plug#begin('~/' . s:configdir . '/Plug')
   Plug 'lucy/term.vim'
   Plug 'laserswald/chameleon.vim'
   Plug 'dracula/vim'
+  Plug 'baskerville/vim-sxhkdrc'
 call plug#end()
 " }}}
 
@@ -202,7 +204,7 @@ if filereadable(expand("~/.vimrc_background"))
   let base16colorspace=256
   source ~/.vimrc_background
 endif
-" color dracula
+color dracula
 let g:theme_name = 'dracula'
 let g:airline_theme = 'airlineish'
 

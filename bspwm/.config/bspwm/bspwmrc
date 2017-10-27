@@ -48,10 +48,15 @@ bspc config pointer_modifier mod1
 # Monitors and desktops {{{
 
 mon_internal="eDP-1"
-mon_external="HDMI-1"
+mon_external="DP-1-2"
 
 if ! xrandr -q | grep -q "eDP-1"; then
   mon_internal="eDP1"
+fi
+
+if ! xrandr -q | grep -q "DP-1-2"; then
+  mon_external="DP-1-2";
+  $HOME/.screenlayout/dual.sh &
 fi
 
 if ! xrandr -q | grep -q "HDMI-1"; then
@@ -174,6 +179,7 @@ fi
   "${polybar_config:-${XDG_CONFIG_HOME}/polybar/bspwm.conf}" \
   "${polybar_bars[*]}"
 
+"${XDG_CONFIG_HOME}"/sxhkd/launch
 bspc query -D | while read -r ws; do
   for side in top bottom left right; do
     bspc config -d "$ws" ${side}_padding 0
@@ -186,7 +192,3 @@ echo "bspwm configuration loaded..."
 if [[ -n "$(type theme::post_bspwmrc 2>/dev/null)" ]]; then
   theme::post_bspwmrc 2>/dev/null &
 fi
-wavebox &
-slack &
-nm-applet &
-enpass &

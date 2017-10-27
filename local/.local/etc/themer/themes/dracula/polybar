@@ -2,20 +2,30 @@
 throttle-ms = 50
 throttle-limit = 5
 
+[colors]
+background=#282a36
+current=#44475a
+selection=#44475a
+foreground=#f8f8f2
+comment=#6272a4
+cyan=#8be9fd
+green=#50fa7b
+orange=#ffb86c
+pink=#ff79c6
+purple=#bd93f9
+red=#ff5555
+yellow=#f1fa8c
+
 [bar/top]
-monitor = eDP-1
 width = 100%
 height = 47
 offset-y = 5
 
-background = #005f627a
-foreground = #f8f8f2
+background = ${colors.current}
+foreground = ${colors.foreground}
 
-overline-size = 2
-overline-color = #bc92f8
 underline-size = 2
-underline-color = #bc92f8
-
+underline-color = ${colors.orange}
 spacing = 1
 padding-right = 2
 module-margin-left = 0
@@ -45,12 +55,12 @@ y-transparent = false
 ; By default the tray container will use the bar
 ; background color.
 ; Note: 32 bit alpha blending is not supported.
-tray-background = #282a36
-tray-underline = #f8f8f2
+tray-background = ${colors.background}
+tray-underline = ${colors.foreground}
 
 ; Tray offset defined as pixel value (e.g. 35) or percentage (e.g. 50%)
 tray-offset-x = 0
-tray-offset-y = 0
+tray-offset-y = -8
 
 ; Pad the sides of each tray icon
 tray-padding = 0
@@ -60,7 +70,7 @@ tray-scale = 1.0
 
 [module/bspwm]
 type = internal/bspwm
-ws-icon-0 = web;
+ws-icon-0 = web; 
 ws-icon-1 = term; 
 ws-icon-2 = ws_3; 
 ws-icon-3 = ws_4; 
@@ -76,16 +86,16 @@ label-active = %index%%icon%
 label-active-padding = 2
 label-active-margin = 1
 label-active-font = 0
-label-active-foreground = #ff79c6
-label-active-background = #282a36
-label-active-underline = #ff79c6
+label-active-foreground = ${colors.pink}
+label-active-background = ${colors.background}
+label-active-underline = ${colors.pink}
 
 label-occupied = %index%%icon%
 label-occupied-padding =2
 label-occupied-margin = 1
-label-occupied-background = #282a36
-label-occupied-foreground = #6272a4
-label-occupied-underline = #6272a4
+label-occupied-background = ${colors.background}
+label-occupied-foreground = ${colors.comment}
+label-occupied-underline = ${colors.comment}
 
 label-occupied-font = 0
 
@@ -102,34 +112,45 @@ label-empty-font = 0
 [module/i3]
 type = internal/i3
 
+
+ws-icon-0 = 1; 
+ws-icon-1 = 2; 
+ws-icon-2 = 3; 
+ws-icon-3 = 4; 
+ws-icon-4 = 5; 
+ws-icon-5 = 6; 
+ws-icon-6 = 7; 
+ws-icon-7 = 8; 
+ws-icon-8 = 9; 
+ws-icon-9 = 10; 
+
 format = <label-state> <label-mode>
-format-spacing = 0
+label-active = %index%%icon%
+label-active-padding = 2
+label-active-margin = 1
+label-active-font = 0
+label-active-foreground = ${colors.pink}
+label-active-background = ${colors.background}
+label-active-underline = ${colors.pink}
 
-label-focused = %index%
-label-focused-padding = 2
-label-focused-margin = 1
-label-focused-font = 3
-label-focused-foreground = #fff
-label-focused-background = #2fbbf2
-label-focused-overline = #148ebe
-label-focused-underline = #148ebe
+label-occupied = %index%%icon%
+label-occupied-padding =2
+label-occupied-margin = 1
+label-occupied-background = ${colors.background}
+label-occupied-foreground = ${colors.comment}
+label-occupied-underline = ${colors.comment}
 
-label-unfocused = %index%
-label-unfocused-padding = 2
-label-unfocused-margin = 1
-label-unfocused-background = #eeeeee
-label-unfocused-foreground = #dd222222
-label-unfocused-font = 3
+label-occupied-font = 0
 
-label-urgent = %index%
+label-urgent = %index% %icon%
 label-urgent-padding = 2
 label-urgent-margin = 1
-label-urgent-font = 3
+label-urgent-font = 0
 
-label-visible = %index%
-label-visible-padding = 2
-label-visible-margin = 1
-label-visible-font = 3
+label-empty =
+label-empty-padding = 2
+label-empty-margin = 1
+label-empty-font = 0
 
 [module/vpn]
 type=custom/script
@@ -137,9 +158,9 @@ exec = ~/.config/polybar/vpn
 interval = 10
 label =  %output%
 format-padding = 2
-format-background = #282a36
-format-foreground = #ff79c6
-format-underline = #ff79c6
+format-background = ${colors.background}
+format-foreground = ${colors.pink}
+format-underline = ${colors.pink}
 label-font=3
 
 [module/cpu]
@@ -147,8 +168,8 @@ type = internal/cpu
 interval = 0.5
 
 format = <label> <ramp-coreload>
-format-background = #282a36
-format-foreground = #50fa7b
+format-background = ${colors.background}
+format-foreground = ${colors.green}
 format-underline = #50fafb
 format-padding = 2b
 
@@ -157,22 +178,22 @@ label-font = 3
 
 ramp-coreload-0 = ▁
 ramp-coreload-0-font = 5
-ramp-coreload-0-foreground = #50fa7b
+ramp-coreload-0-foreground = ${colors.green}
 ramp-coreload-1 = ▂
 ramp-coreload-1-font = 5
-ramp-coreload-1-foreground = #50fa7b
+ramp-coreload-1-foreground = ${colors.green}
 ramp-coreload-2 = ▃
 ramp-coreload-2-font = 5
-ramp-coreload-2-foreground = #50fa7b
+ramp-coreload-2-foreground = ${colors.green}
 ramp-coreload-3 = ▄
 ramp-coreload-3-font = 5
-ramp-coreload-3-foreground = #50fa7b
+ramp-coreload-3-foreground = ${colors.green}
 ramp-coreload-4 = ▅
 ramp-coreload-4-font = 5
 ramp-coreload-4-foreground = #f1fa8c
 ramp-coreload-5 = ▆
 ramp-coreload-5-font = 5
-ramp-coreload-5-foreground = #ffb86c
+ramp-coreload-5-foreground = ${colors.orange}
 ramp-coreload-6 = ▇
 ramp-coreload-6-font = 5
 ramp-coreload-6-foreground = #ff5555
@@ -185,7 +206,7 @@ type = internal/memory
 
 format = <label>
 format-padding = 2
-format-background = #282a36
+format-background = ${colors.background}
 format-foreground = #ffe3ff
 format-underline = #ffe3ff
 
@@ -208,9 +229,9 @@ type = internal/date
 date =  %m-%d : %H:%M%%{T-}
 
 format-padding = 2
-format-background = #282a36
-format-foreground = #8be9fd
-format-underline = #8be9fd
+format-background = ${colors.background}
+format-foreground = ${colors.cyan}
+format-underline = ${colors.cyan}
 
 
 [module/battery]
@@ -221,19 +242,19 @@ adapter = AC
 
 poll-interval = 5
 format-charging = <animation-charging> <label-charging>
-format-charging-background = #282a36
-format-charging-foreground= #50fa7b
-format-charging-underline = #50fa7b
+format-charging-background = ${colors.background}
+format-charging-foreground= ${colors.green}
+format-charging-underline = ${colors.green}
 format-discharging = <ramp-capacity> <label-discharging>
-format-discharging-background = #282a36
+format-discharging-background = ${colors.background}
 format-discharging-foreground = #ff5555
 format-discharging-underline = #ff5555
 format-discharging-padding = 2
 
 format-full = <label-full>
-format-full-background = #282a36
-format-full-foreground= #50fa7b
-format-full-underline= #50fa7b
+format-full-background = ${colors.background}
+format-full-foreground= ${colors.green}
+format-full-underline= ${colors.green}
 label-full = "     "
 ramp-capacity-0 = 
 ramp-capacity-1 = 
@@ -255,14 +276,14 @@ headphone-mixer = Headphone
 headphone-id = 9
 
 format-volume-padding = 2
-format-volume-background = #282a36
+format-volume-background = ${colors.background}
 format-volume-foreground = #f1f88c
 format-volume-underline = #f1f8ac
 
 format-muted-padding = 2
-format-muted-background = #282a36
-format-muted-foreground = #6272a4
-format-muted-underline = #6272a4
+format-muted-background = ${colors.background}
+format-muted-foreground = ${colors.comment}
+format-muted-underline = ${colors.comment}
 
 label-volume =  %percentage%
 label-volume-font = 3

@@ -1,0 +1,151 @@
+ERROR: Received ConfigureNotify for unknown window 0x00600000
+ERROR: Received ExposeEvent for unknown window 0x00600000
+ERROR: Received ConfigureNotify for unknown window 0x00600000
+ERROR: Received ConfigureNotify for unknown window 0x00600001
+ERROR: Received ExposeEvent for unknown window 0x00600001
+ERROR: Received ConfigureNotify for unknown window 0x00600001
+ERROR: Received ConfigureNotify for unknown window 0x00600002
+ERROR: Received ConfigureNotify for unknown window 0x00600002
+ERROR: Received ConfigureNotify for unknown window 0x00600003
+ERROR: Received ConfigureNotify for unknown window 0x00600004
+ERROR: Received ConfigureNotify for unknown window 0x00600004
+ERROR: Received ConfigureNotify for unknown window 0x00600006
+ERROR: Received ConfigureNotify for unknown window 0x00600006
+ERROR: Received ConfigureNotify for unknown window 0x00600007
+ERROR: Received ExposeEvent for unknown window 0x00600007
+ERROR: Received ConfigureNotify for unknown window 0x00600007
+ERROR: Received ConfigureNotify for unknown window 0x00600008
+ERROR: Received ExposeEvent for unknown window 0x00600008
+ERROR: Received ConfigureNotify for unknown window 0x00600008
+ERROR: Received ExposeEvent for unknown window 0x00600000
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: Duplicate keybinding in config file:
+  state mask 0x40 with keysym h, command "split h"
+ERROR: FYI: You are using i3 version 4.14.1 (2017-09-24)
+ERROR: Duplicate keybinding in config file:
+  state mask 0x40 with keysym h, command "split h"
+ERROR: FYI: You are using i3 version 4.14.1 (2017-09-24)
+ERROR: ERROR: i3-nagbar did not exit normally.
+ERROR: Duplicate keybinding in config file:
+  state mask 0x40 with keysym h, command "split h"
+ERROR: FYI: You are using i3 version 4.14.1 (2017-09-24)
+ERROR: Duplicate keybinding in config file:
+  state mask 0x40 with keysym h, command "split h"
+ERROR: FYI: You are using i3 version 4.14.1 (2017-09-24)
+ERROR: Duplicate keybinding in config file:
+  state mask 0x40 with keysym h, command "split h"
+ERROR: FYI: You are using i3 version 4.14.1 (2017-09-24)
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: You have to specify which window/container should be focused.
+ERROR: Example: [class="urxvt" title="irssi"] focus
+ERROR: Duplicate keybinding in config file:
+  state mask 0x40 with keysym h, command "split h"
+ERROR: FYI: You are using i3 version 4.14.1 (2017-09-24)
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: Duplicate keybinding in config file:
+  state mask 0x40 with keysym h, command "split h"
+ERROR: FYI: You are using i3 version 4.14.1 (2017-09-24)
+ERROR: Duplicate keybinding in config file:
+  state mask 0x40 with keysym h, command "split h"
+ERROR: FYI: You are using i3 version 4.14.1 (2017-09-24)
+ERROR: Duplicate keybinding in config file:
+  state mask 0x40 with keysym h, command "split h"
+ERROR: FYI: You are using i3 version 4.14.1 (2017-09-24)
+ERROR: ERROR: No such screen
+ERROR: Duplicate keybinding in config file:
+  state mask 0x40 with keysym h, command "split h"
+ERROR: FYI: You are using i3 version 4.14.1 (2017-09-24)
+ERROR: Duplicate keybinding in config file:
+  state mask 0x40 with keysym h, command "split h"
+ERROR: FYI: You are using i3 version 4.14.1 (2017-09-24)
+ERROR: Duplicate keybinding in config file:
+  state mask 0x40 with keysym h, command "split h"
+ERROR: FYI: You are using i3 version 4.14.1 (2017-09-24)
+ERROR: You have to specify which window/container should be focused.
+ERROR: Example: [class="urxvt" title="irssi"] focus
+ERROR: Duplicate keybinding in config file:
+  state mask 0x40 with keysym h, command "split h"
+ERROR: FYI: You are using i3 version 4.14.1 (2017-09-24)
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: You have to specify which window/container should be focused.
+ERROR: Example: [class="urxvt" title="irssi"] focus
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: You have to specify which window/container should be focused.
+ERROR: Example: [class="urxvt" title="irssi"] focus
+ERROR: You have to specify which window/container should be focused.
+ERROR: Example: [class="urxvt" title="irssi"] focus
+ERROR: ERROR: No such screen
+ERROR: You have to specify which window/container should be focused.
+ERROR: Example: [class="urxvt" title="irssi"] focus
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: Expected one of these tokens: 'global', <end>
+ERROR: Your command: fullscreeny
+ERROR:                         ^
+ERROR: Expected one of these tokens: 'global', <end>
+ERROR: Your command: fullscreeny
+ERROR:                         ^
+ERROR: Expected one of these tokens: 'global', <end>
+ERROR: Your command: fullscreeny
+ERROR:                         ^
+ERROR: Expected one of these tokens: 'global', <end>
+ERROR: Your command: fullscreeny
+ERROR:                         ^
+ERROR: Expected one of these tokens: 'global', <end>
+ERROR: Your command: fullscreeny
+ERROR:                         ^
+ERROR: You have to specify which window/container should be focused.
+ERROR: Example: [class="urxvt" title="irssi"] focus
+ERROR: You have to specify which window/container should be focused.
+ERROR: Example: [class="urxvt" title="irssi"] focus
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen
+ERROR: ERROR: No such screen

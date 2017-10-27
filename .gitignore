@@ -7,3 +7,4 @@ vim/.config/nvim/swaps
 vim/.config/nvim/undo
 local/.local/share/wavebox/
 local/.local/share/JetBrains/
+local/.local/share

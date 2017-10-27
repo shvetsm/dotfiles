@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
- rofi -show drun -padding 10 -seperator-style "none" -font "Source Code Pro Medium 20"
+rofi -show run -lines 3 -eh 2  -padding 10 -seperator-style "none" -font "Fyodor Bold 40" -columns 3

@@ -1,0 +1,9 @@
+ERROR: CONFIG: Expected one of these tokens: <end>, '#', 'set ', 'set	', 'set_from_resource', 'bindsym', 'bindcode', 'bind', 'bar', 'font', 'mode', 'gaps', 'smart_borders', 'smart_gaps', 'floating_minimum_size', 'floating_maximum_size', 'floating_modifier', 'default_orientation', 'workspace_layout', 'new_window', 'new_float', 'hide_edge_borders', 'for_window', 'assign', 'no_focus', 'focus_follows_mouse', 'mouse_warping', 'force_focus_wrapping', 'force_xinerama', 'force-xinerama', 'disable_randr15', 'disable-randr15', 'workspace_auto_back_and_forth', 'fake_outputs', 'fake-outputs', 'force_display_urgency_hint', 'focus_on_window_activation', 'show_marks', 'workspace', 'ipc_socket', 'ipc-socket', 'restart_state', 'popup_during_fullscreen', 'exec_always', 'exec', 'client.background', 'client.focused_inactive', 'client.focused', 'client.unfocused', 'client.urgent', 'client.placeholder'
+ERROR: CONFIG: (in file /home/mshvets/.config/i3/config)
+ERROR: CONFIG: Line  60: #####################################################################################################################
+ERROR: CONFIG: Line  61: 
+ERROR: CONFIG: Line  62: :exec --no-startup-id $LOCAL_BIN/setxrandr
+ERROR: CONFIG:           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ERROR: CONFIG: Line  63: 
+ERROR: CONFIG: Line  64: #Press Mod4 (super) and X to exit - check toolbar for next choices
+ERROR: FYI: You are using i3 version 4.14.1 (2017-09-24)

@@ -1,6 +1,6 @@
 [global]
-    #font = "monospace 9"
-    #font = "Roboto Mono for Powerline, 10"
+    #font = "monospace 18"
+    #font = "Roboto Mono for Powerline, 20"
     font = "Fira Mono, 9"
 
     # for a complete reference see http://developer.gnome.org/pango/stable/PangoMarkupFormat.html

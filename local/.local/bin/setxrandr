@@ -1,0 +1,12 @@
+
+#!/bin/bash
+
+
+if xrandr -q | grep -q "DP-1-2 connected"; then
+  echo "settting dual"
+  $HOME/.screenlayout/dual.sh &
+else
+  echo "setting single"
+  $HOME/.screenlayout/single.sh &
+fi
+

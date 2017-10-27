@@ -1,20 +1,40 @@
-#!/usr/bin/env bash
+#!/bin/bash
+
+source bootstrap.sh
+
+include utils/x11.sh
+include utils/log.sh
+
+bootstrap::finish
+
+
+TEMPDIR="/tmp"
+LOCK_IMG="/home/mshvets/.local/etc/themer/current/lock.png"
+
+function process_screen {
+  log "processing screen $i"
+  TMPIMG="${TEMPDIR}/head_$i.png"
+  import -window root -crop ${w}x${h}+${x}+${y} ${TMPIMG}
+  convert ${TMPIMG} -spread 10 ${TMPIMG}
+  convert ${TMPIMG} ${LOCK_IMG} -gravity center -composite -matte ${TMPIMG}
+}
 
 function main {
-  local image="$CURRENT_THEME/lockscreen.png"
-  local externalmon='false'
-
-  if ! [[ -e "$image" ]]; then
-    unset image
+  TEMPDIR=/tmp
+  LOCK_IMG="${CURRENT_THEME}/lock.png"
+  xdpyinfo -ext XINERAMA | sed '/^  head #/!d;s///' |
+  while IFS=' :x@,' read i w h x y; do
+     process_screen $i $w $h $x $y &
+  done
+  wait
+  if [ -e $TEMPDIR/head_1.png ]; then
+    convert $TEMPDIR/head_0.png $TEMPDIR/head_1.png +append $TEMPDIR/screen.png
+  else
+    mv $TEMPDIR/head_0.png $TEMPDIR/screen.png
   fi
-
-  xrandr -q | grep -q "HDMI-1 connected" && externalmon='true'
-
-  $externalmon && xrandr --output HDMI-1 --brightness 0
-
-  i3lock -n -u -e ${image:+-t -i $image}
-
-  $externalmon && xrandr --output HDMI-1 --brightness 1
+  playerctl pause;
+  i3lock -u -i $TEMPDIR/screen.png
+  rm $TEMPDIR/head*.png $TEMPDIR/screen.png
 }
 
 main "$@"

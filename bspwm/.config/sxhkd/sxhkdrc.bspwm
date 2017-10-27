@@ -112,7 +112,7 @@ super + Tab
 # super + shift + o
 #   xmatch -v -x "termite\([0-9]+\)-\+-zsh\([0-9]+\)" > /tmp/xx
 
-# Toggle locked state of current window
+# Toggle ocked state of current window
 super + ctrl + comma
   bspc node -g locked && notify-send "Toggled locked state"
 
@@ -207,6 +207,11 @@ super + F9
   pcmanfm
 # }}}
 # Misc {{{
+super + F1
+  vivaldi-snapshot
+
+super + F6
+  intellij-idea-ultimate-edition
 
 super + F8
   xkblayout-state -s +1
