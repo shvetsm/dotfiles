@@ -1,7 +1,7 @@
 #!/bin/sh
 case "$1" in
     lock)
-        /usr/bin/lock
+        $LOCAL_BIN/lockscreen
         ;;
     logout)
         i3-msg exit

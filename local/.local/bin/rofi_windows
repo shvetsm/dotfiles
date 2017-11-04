@@ -1,2 +1,8 @@
 #!/usr/bin/env bash
-rofi -show window  -lines 10 -eh 2  -padding 10 -seperator-style "none" -font "Hack 20" -columns 1 -kb-row-down "Alt+Tab"
+rofi -show window  -lines 10 -eh 2  -padding 10 -seperator-style "none" -font "Hack 20" -columns 1 \
+	-kb-cancel "Alt+Escape,Escape" \
+    -kb-accept-entry "!Alt-Tab,Return"\
+    -kb-row-down "Alt+Tab,Alt+Down" \
+    -kb-row-up "Alt+ISO_Left_Tab,Alt+Up"&
+xdotool keyup Tab
+xdotool keydown Tab

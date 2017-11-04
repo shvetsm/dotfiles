@@ -1,0 +1,36 @@
+# background and foreground MUST exist and MUST be hex color values
+# names cannot contain '-'
+terminal:
+    background: "#282a36"
+    foreground: "#f8f8f2"
+    bold: "#ffffff"
+    termbackground: "rgba(40,42,54,0.75)"
+    font: "Hack 12"
+    colors: ["#282a36", "#ff5555", "#50fa7b", "#f1fa8c", "#ff79c6", "#bd93f9", "#8be9fd", "#6272a4", "#f8f8f2"]
+    # colors  0=black     1=red     2=green   3=yellow    4=blue    5=purple    6=cyan     7=grey     8=white
+
+border:
+    pixels: 2
+    all: 0
+    top: 0
+    bottom: 0
+    color: "#ffffff"
+
+
+gap:
+    inner: 12
+    outer: 0
+
+
+bar:
+    height: 20
+    width: "100%"
+    radius: 0
+    bottom: "false"
+    background: "#44475a"
+    cells: "#282a36"
+    font0: "xos4 Terminus:size=12:antialias=false;2"
+
+
+wallpaper:
+    saved: "/usr/share/backgrounds/volcanic.jpg"

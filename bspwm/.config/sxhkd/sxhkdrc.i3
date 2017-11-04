@@ -4,12 +4,12 @@
 
 
 #switch to workspace
-super + {0-9}
-  i3-msg workspace {0-9}
+super + {0,1-9}
+  i3-msg workspace {10,1-9}
 
 #move focused container to workspace
-super + shift + {0-9}
-  WP={0-9} && i3-msg move container to workspace $WP && i3-msg workspace $WP
+super + shift + {0,1-9}
+  WP={10,1-9} && i3-msg move container to workspace $WP && i3-msg workspace $WP
 super {_,shift} + m
   i3-msg move {workspace,container} to output left
 

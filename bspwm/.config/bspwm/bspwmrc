@@ -7,8 +7,6 @@ if ! bspc wm -g &>/dev/null; then
   exit 1
 fi
 
-killall -q polybar lemonbar xdrawrect
-
 if [[ -s "$BSPWM_STATE" ]]; then
   exec "$LOCAL_ETC/bspwm/restore_state"; exit 0
 fi
@@ -42,36 +40,33 @@ bspc config split_ratio "${setting_split_ratio:-0.5}"
 #bspc config history_aware_focus "${setting_history_aware_focus:-true}"
 bspc config focus_follows_pointer "${setting_focus_follows_pointer:-true}"
 bspc config ignore_ewmh_focus "${setting_ignore_ewmh_focus:-true}"
-bspc config pointer_modifier mod1
+bspc config pointer_modifier mod4
 
 # }}}
 # Monitors and desktops {{{
 
+$LOCAL_BIN/setxrandr
+
 mon_internal="eDP-1"
-mon_external="DP-1-2"
+mon_external=""
 
-if ! xrandr -q | grep -q "eDP-1"; then
-  mon_internal="eDP1"
-fi
+connected_monitors=$(xrandr -q | awk '/\ connected/ && /[[:digit:]]x[[:digit:]].*+/{print $1}')
 
-if ! xrandr -q | grep -q "DP-1-2"; then
+echo $connected_monitors
+echo  $connected_monitors | grep -q "DP-1-2";
+if echo $connected_monitors | grep -q "DP-1-2"; then
   mon_external="DP-1-2";
-  $HOME/.screenlayout/dual.sh &
 fi
 
-if ! xrandr -q | grep -q "HDMI-1"; then
-  mon_external="HDMI1"
+if echo $connected_monitors | grep -q "HDMI-1"; then
+  mon_external="HDMI-1"
 fi
 
-if xrandr -q | grep -q "VIRTUAL1 conn"; then
-  mon_external="VIRTUAL1"
-fi
-
-if bspc monitor $mon_external; then
-  bspc monitor $mon_internal --reset-desktops  web term ws_3 ws_4 ws_5 code ws_7 ws_8 comms music
-  bspc monitor $mon_external --reset-desktops  web term ws_3 ws_4 ws_5 code ws_7 ws_8 ws_9 ws_0
+if [ ! -z $mon_external ]; then
+  bspc monitor $mon_internal --reset-desktops  2 3 4 5 9
+  bspc monitor $mon_external --reset-desktops  1 6 7 8 10
 else
-  bspc monitor $mon_internal --reset-desktops web term ws_3 ws_4 ws_5 code ws_7 ws_8 comms music
+  bspc monitor $mon_internal --reset-desktops 1 2 3 4 5 6 7 8 9 10
 fi
 
 bspc config pointer_follows_monitor "${setting_pointer_follow_monitor:-true}"
@@ -115,11 +110,14 @@ bspc rule -a Steam "state=floating"
 bspc rule -a Yad "state=floating"
 bspc rule -a float "state=floating"
 
-bspc rule -a Slack desktop=comms follow=true
-bspc rule -a wavebox desktop=comms follow=true
-bspc rule -a Enpass-Desktop desktop=ws_5 state=floating
+bspc rule -a Slack desktop=9
+bspc rule -a wavebox desktop=9
+bspc rule -a Evolution desktop=9
+bspc rule -a TelegramDesktop desktop=9
 
-bspc rule -a jetbrains-idea desktop=code follow=true
+bspc rule -a Enpass-Desktop desktop=5 state=floating
+
+bspc rule -a jetbrains-idea desktop=6 follow=true
 
 bspc config external_rules_command "$LOCAL_ETC/bspwm/external_rules"
 
@@ -174,12 +172,10 @@ fi
 # }}}
 
 # Polybar {{{
-
 "${XDG_CONFIG_HOME}"/polybar/launch --kill-all \
-  "${polybar_config:-${XDG_CONFIG_HOME}/polybar/bspwm.conf}" \
+  "${polybar_config:-${CURRENT_THEME}/polybar}" \
   "${polybar_bars[*]}"
 
-"${XDG_CONFIG_HOME}"/sxhkd/launch
 bspc query -D | while read -r ws; do
   for side in top bottom left right; do
     bspc config -d "$ws" ${side}_padding 0
@@ -190,5 +186,5 @@ done
 echo "bspwm configuration loaded..."
 
 if [[ -n "$(type theme::post_bspwmrc 2>/dev/null)" ]]; then
-  theme::post_bspwmrc 2>/dev/null &
+ theme::post_bspwmrc 2>/dev/null &
 fi

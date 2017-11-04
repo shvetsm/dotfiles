@@ -65,12 +65,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/mshvets/.local/etc/themer/current/lock.png" added="2017-10-26T20:04:58Z" modified="2017-10-26T20:04:58Z" visited="2017-10-26T20:04:59Z">
+  <bookmark href="file:///home/mshvets/.local/etc/themer/current/lock.png" added="2017-10-26T20:04:58Z" modified="2017-11-01T15:31:28Z" visited="2017-10-26T20:04:59Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
         <bookmark:applications>
-          <bookmark:application name="vivaldi-snapshot" exec="&apos;vivaldi-snapshot %u&apos;" modified="2017-10-26T20:04:58Z" count="1"/>
+          <bookmark:application name="vivaldi-snapshot" exec="&apos;vivaldi-snapshot %u&apos;" modified="2017-11-01T15:31:28Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -95,12 +95,1912 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/mshvets/dev/telegram/tiled.png" added="2017-10-27T14:09:34Z" modified="2017-10-27T14:09:34Z" visited="2017-10-27T14:09:34.756605Z">
+  <bookmark href="file:///home/mshvets/dev/telegram/tiled.png" added="2017-10-27T14:09:34Z" modified="2017-10-27T14:09:34Z" visited="2017-10-27T14:09:34Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
         <bookmark:applications>
           <bookmark:application name="telegram-desktop" exec="&apos;telegram-desktop %u&apos;" modified="2017-10-27T14:09:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mshvets/.ssh/id_rsa.chariot.pub" added="2017-10-31T15:11:44Z" modified="2017-10-31T15:11:44Z" visited="2017-10-31T15:11:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.ms-publisher"/>
+        <bookmark:applications>
+          <bookmark:application name="slack" exec="&apos;slack %u&apos;" modified="2017-10-31T15:11:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mshvets/.ssh/mshvets-2017.p12" added="2017-10-31T15:37:59Z" modified="2017-10-31T15:37:59Z" visited="2017-10-31T15:37:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-pkcs12"/>
+        <bookmark:applications>
+          <bookmark:application name="vivaldi-snapshot" exec="&apos;vivaldi-snapshot %u&apos;" modified="2017-10-31T15:37:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8407.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8409.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8408.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8411.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8412.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8413.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8410.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8418.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8419.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8420.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8415.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8414.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8423.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8427.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8417.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8421.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8429.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8425.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8431.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8416.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8433.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8435.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8434.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8430.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8436.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8438.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8426.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8428.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8441.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8422.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8443.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8442.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8444.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8445.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8440.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8449.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8450.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8432.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8452.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8437.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8453.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8439.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8454.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8455.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8447.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8448.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8424.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8459.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8460.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8461.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8458.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8457.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8456.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8465.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8463.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8462.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8464.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8471.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8467.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8473.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8474.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8468.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8476.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8478.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8470.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8466.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8479.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8472.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8482.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8446.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8484.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8483.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8469.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8477.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8451.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8480.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8475.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8488.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8486.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8487.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8489.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8485.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8490.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8481.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8492.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8493.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8495.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8494.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8491.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8496.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8497.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8498.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8499.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8500.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8502.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8501.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8503.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8506.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8507.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8508.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8510.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8511.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8513.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8504.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8515.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8512.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8516.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8509.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8518.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8517.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8514.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8520.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8521.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8519.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8526.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8522.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8523.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8531.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8505.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8525.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8527.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8532.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8524.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8534.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8530.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8538.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8529.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8539.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8528.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8542.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8536.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8540.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8545.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8537.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8546.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8533.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8547.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8535.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8549.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8550.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8541.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8543.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8551.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8554.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8556.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8557.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8559.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8560.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8555.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8552.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8544.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8561.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8558.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8562.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8565.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8553.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8563.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8564.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8566.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8548.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8570.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8567.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8571.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8568.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8572.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mshvets/EOS_DIGITAL/DCIM/100CANON/IMG_8569.JPG" added="2017-11-01T01:53:01Z" modified="2017-11-01T17:34:23Z" visited="2017-11-01T01:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2017-11-01T01:53:01Z" count="1"/>
+          <bookmark:application name="wavebox" exec="&apos;wavebox %u&apos;" modified="2017-11-01T17:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mshvets/.local/bin/startup_apps.sh" added="2017-11-01T13:00:22Z" modified="2017-11-01T13:00:22Z" visited="2017-11-01T13:00:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-11-01T13:00:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/torrent-stream/bc8524bd382815a62eba4c8650ccd5790dad9a3d/AbbyWinters.17.10.07.Anais.V.And.Malena.Lesbian.XXX.1080p.MP4-KTR%5Brarbg%5D" added="2017-11-02T08:58:34Z" modified="2017-11-02T08:58:34Z" visited="2017-11-02T08:58:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Transmission" exec="&apos;transmission-gtk %u&apos;" modified="2017-11-02T08:58:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/torrent-stream/bc8524bd382815a62eba4c8650ccd5790dad9a3d" added="2017-11-02T09:01:05Z" modified="2017-11-02T09:15:15Z" visited="2017-11-02T09:01:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Transmission" exec="&apos;transmission-gtk %u&apos;" modified="2017-11-02T09:01:05Z" count="1"/>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2017-11-02T09:15:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/torrent-stream" added="2017-11-02T09:12:51Z" modified="2017-11-02T09:12:51Z" visited="2017-11-02T09:12:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2017-11-02T09:12:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mshvets/.mutt/.foo" added="2017-11-04T02:23:47Z" modified="2017-11-04T02:23:47Z" visited="2017-11-04T02:23:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2017-11-04T02:23:47Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

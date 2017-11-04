@@ -60,6 +60,7 @@ set $ws10 10
 #####################################################################################################################
 
 exec --no-startup-id $LOCAL_BIN/setxrandr
+exec_always --no-startup-id $LOCAL_BIN/polybars
 
 #Press $mod (super) and X to exit - check toolbar for next choices
 bindsym $mod+X mode "$mode_system"
@@ -192,56 +193,16 @@ for_window [class="Vivaldi-snapshot"] focus
 
 #Mail clients
 exec --no-startup-id "i3-msg 'workspace $ws9; append_layout /home/mshvets/.config/i3/workspace-9.json'"
-exec --no-startup-id evolution
 
 #Music
 #exec --no-startup-id spotify
 for_window [class="Spotify"] focus
-
-#Enpass
-exec --no-startup-id enpass
 
 
 # TRAY APPLICATIONS
 
 # applications that are not installed will not start
 # you may see a wheel - hashtag out things you do not want
-
-#Authentication dialog
-exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
-
-# Updater
-exec --no-startup-id pamac-tray
-
-# bluetooth
-exec --no-startup-id blueberry-tray
-
-# network
-exec --no-startup-id nm-applet
-
-
-# num lock activated
-exec_always --no-startup-id numlockx on
-
-# dropbox
-#exec --no-startup-id dropbox start
-
-# insync
-#exec --no-startup-id insync start
-
-# volume
-#exec --no-startup-id pasystray
-exec --no-startup-id volumeicon
-
-#variety
-#exec --no-startup-id variety
-exec --no-startup-id feh --bg-tile ~/.config/wallpaper/dark-flower-tille.png
-
-# clipit
-exec --no-startup-id clipit
-
-#Conky
-#exec --no-startup-id conky -c ~/.config/i3/system-overview
 
 
 
@@ -250,51 +211,7 @@ exec --no-startup-id clipit
 #################                          applications keyboard shortcuts                          #################
 #####################################################################################################################
 
-#
 
-
-
-#workspace related
-
-
-#workspace $ws2 related
-bindsym $mod+F2 exec --no-startup-id atom;workspace $ws2;focus
-bindsym control+mod1+w exec --no-startup-id geany;workspace $ws2;focus
-
-#workspace $ws3 related
-bindsym $mod+F6 exec --no-startup-id intellij-idea-ultimate-edition;workspace $ws6;focus
-
-#workspace $ws4 related
-bindsym $mod+F4 exec --no-startup-id gimp $ws4;focus
-
-#workspace $ws5 related
-bindsym $mod+F5 exec --no-startup-id meld;workspace $ws5;focus
-bindsym control+mod1+i exec --no-startup-id nitrogen;workspace $ws5;focus
-
-#workspace $ws7 related
-bindsym $mod+F7 exec --no-startup-id virtualbox;workspace $ws7;focus
-
-#workspace $ws8 related
-for_window [class="Thunar"] focus
-bindsym $mod+F8 exec --no-startup-id thunar;workspace $ws8;focus
-bindsym $mod+Shift+Return exec --no-startup-id thunar; workspace $ws8;focus
-bindsym control+mod1+b exec --no-startup-id thunar;workspace $ws8;focus
-
-#workspace Music related
-bindsym $mod+F10 exec --no-startup-id gpmdp;workspace $ws10;focus
-
-
-
-
-#####################################################################################################################
-#################                          screenshots                                              #################
-#####################################################################################################################
-
-
-bindsym Print exec --no-startup-id scrot '%Y-%m-%d-%s_screenshot_$wx$h.jpg' -e 'mv $f ~/Pictures/'
-bindsym Control+Print exec --no-startup-id xfce4-screenshooter
-bindsym Control+Shift+Print exec --no-startup-id gnome-screenshot -i
-#bindsym shift+Print exec --no-startup-id shutter
 
 
 

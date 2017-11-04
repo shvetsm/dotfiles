@@ -6,5 +6,6 @@ while (( ++run_count )); do
   echo "---- STARTUP $(date +"%Y-%m-%d %H:%M:%S") ----" >> "${XDG_CACHE_HOME}"/bspwm/stdout
   echo "---- STARTUP $(date +"%Y-%m-%d %H:%M:%S") ----" >> "${XDG_CACHE_HOME}"/bspwm/stderr
   export BSPWM_COUNTER=$run_count
+  $LOCAL_BIN/startup_apps.sh &
   bspwm >>"${XDG_CACHE_HOME}"/bspwm/stdout 2>>"${XDG_CACHE_HOME}"/bspwm/stderr || break
 done

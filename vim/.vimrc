@@ -23,6 +23,7 @@ call plug#begin('~/' . s:configdir . '/Plug')
   Plug 'tpope/vim-surround'
 
   Plug 'vim-airline/vim-airline'              " Status line
+  Plug 'vim-airline/vim-airline-themes'              " Status line
   Plug 'jeffkreeftmeijer/vim-numbertoggle'    " Auto relative number toggling
   Plug 'airblade/vim-gitgutter'               " Live git changes visible
   Plug 'terryma/vim-multiple-cursors'         " Muliple cursors, akin to sublime text
@@ -206,7 +207,6 @@ if filereadable(expand("~/.vimrc_background"))
 endif
 color dracula
 let g:theme_name = 'dracula'
-let g:airline_theme = 'airlineish'
 
 " General UI Options
 set mouse=a

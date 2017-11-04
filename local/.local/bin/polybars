@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+source bootstrap.sh
+
+include utils/_.sh
+include utils/json.sh
+include utils/polybar.sh
+include utils/x11.sh
+
+bootstrap::finish
+
+polybar_config="${CURRENT_THEME}/polybar"
+polybar_bars=(top)
+
+if x11::monitor_connected "DP-1-2"; then
+  polybar_bars+=(bottom)
+fi
+
+"${XDG_CONFIG_HOME}"/polybar/launch --kill-all \
+  "${polybar_config:-${CURRENT_THEME}/polybar}" \
+  "${polybar_bars[*]}"

@@ -48,12 +48,20 @@ alt + Mode_switch
   $LOCAL_BIN/rofi_run
 
 #Variety keybindings
-bindsym super + alt + {Left,Right}
+super + alt + {Left,Right}
   variety -{p,n}
 
 # # vi; launch vimperator
 super + F1
   vivaldi-snapshot && i3-msg workspace 1 && i3-msg focus
+super + F6
+  intellij-idea-ultimate-edition && i3-msg workspace 1 && i3-msg focus
+
+super + F10
+  gpmdp && i3-msg workspace 0 && i3-msg focus
+
+
+
 
 # }}}
 # Misc {{{

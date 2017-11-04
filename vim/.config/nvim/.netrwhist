@@ -1,4 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/home/mshvets'
-let g:netrw_dirhist_2='/home/mshvets/dotfiles/local/.local/bin'
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home'
+let g:netrw_dirhist_2='/home/mshvets'
+let g:netrw_dirhist_3='/home/mshvets/.config'
+let g:netrw_dirhist_4='/home'
+let g:netrw_dirhist_5='/home/mshvets'
+let g:netrw_dirhist_6='/home/mshvets/.config'
+let g:netrw_dirhist_7='/home/mshvets/.config/polybar'
+let g:netrw_dirhist_8='/home'

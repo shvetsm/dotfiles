@@ -25,7 +25,7 @@ color_presel_feedback="#9966cc"
 polybar_config="${CURRENT_THEME}/polybar"
 polybar_bars=(top)
 
-if x11::monitor_connected "HDMI-1"; then
+if x11::monitor_connected "DP-1-2"; then
   polybar_bars+=(bottom)
 fi
 

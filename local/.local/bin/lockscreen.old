@@ -1,0 +1,40 @@
+#!/bin/bash
+
+source bootstrap.sh
+
+include utils/x11.sh
+include utils/log.sh
+
+bootstrap::finish
+
+
+TEMPDIR="/tmp"
+LOCK_IMG="/home/mshvets/.local/etc/themer/current/lock.png"
+
+function process_screen {
+  log "processing screen $i"
+  TMPIMG="${TEMPDIR}/head_$i.png"
+  import -window root -crop ${w}x${h}+${x}+${y} \
+    | convert - -spread 10  \
+    | convert - ${LOCK_IMG} -gravity center -composite -matte ${TMPIMG}
+}
+
+function main {
+  TEMPDIR=/tmp
+  LOCK_IMG="${CURRENT_THEME}/lock.png"
+  xdpyinfo -ext XINERAMA | sed '/^  head #/!d;s///' |
+  while IFS=' :x@,' read i w h x y; do
+     process_screen $i $w $h $x $y &
+  done
+  wait
+  if [ -e $TEMPDIR/head_1.png ]; then
+    convert $TEMPDIR/head_0.png $TEMPDIR/head_1.png +append $TEMPDIR/screen.png
+  else
+    mv $TEMPDIR/head_0.png $TEMPDIR/screen.png
+  fi
+  playerctl pause;
+  i3lock --radius 180 -i $TEMPDIR/screen.png
+  rm $TEMPDIR/head*.png $TEMPDIR/screen.png
+}
+
+main "$@"
