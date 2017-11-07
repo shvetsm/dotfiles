@@ -58,11 +58,12 @@ call plug#begin('~/' . s:configdir . '/Plug')
   Plug 'lucy/term.vim'
   Plug 'laserswald/chameleon.vim'
   Plug 'dracula/vim'
+  Plug 'chriskempson/base16-vim'
   Plug 'baskerville/vim-sxhkdrc'
 call plug#end()
 " }}}
 
-" {{{ Plugin settings
+"  {{{ Plugin settings
 " Use deoplete.
 let g:deoplete#enable_at_startup = 1
 
@@ -73,7 +74,7 @@ let g:deoplete#enable_ignore_case = 1
 let g:deoplete#auto_complete_start_length = 0
 let g:auto_complete_start_length = 0
 let g:deoplete#enable_refresh_always = 1
-let g:deoplete#enable_debug = 1
+le:t g:deoplete#enable_debug = 1
 let g:deoplete#enable_profile = 1
 let g:deoplete#keyword_patterns = {}
 let g:deoplete#keyword_patterns.clojure = '[\w!$%&*+/:<=>?@\^_~\-\.#]*'
@@ -117,7 +118,7 @@ let g:airline_symbols.linenr = ''
 " vim-multiple-cursors
 let g:multi_cursor_exit_from_visual_mode = 0
 let g:multi_cursor_exit_from_insert_mode = 0
-
+source ~/.config/nvim/colors
 " }}}
 
 " {{{ keybinds
@@ -205,8 +206,8 @@ if filereadable(expand("~/.vimrc_background"))
   let base16colorspace=256
   source ~/.vimrc_background
 endif
-color dracula
-let g:theme_name = 'dracula'
+"color dracula
+"let g:theme_name = 'dracula'
 
 " General UI Options
 set mouse=a

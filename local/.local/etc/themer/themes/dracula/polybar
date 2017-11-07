@@ -6,32 +6,86 @@
 include-file = /home/mshvets/.config/polybar/modules.conf
 include-file = /home/mshvets/.config/polybar/master.conf
 
+;=====================================================
+;     Openbox Bars
+;=====================================================
 
-[bar/bottom]
+[bar/openbox-bar]
 inherit = bar/master
-monitor=DP-1-2
 
-modules-left = config i3 bspwm sic
-modules-center = xwindow
-modules-right = vpn volume cpu memory weather clock
+; Use $ xrandr -q | grep " connected" | cut -d ' ' -f1
+monitor =
 
-[bar/top]
+modules-left = config window_switch workspaces menu
+modules-center = clock
+modules-right = pkg memory temperature coreuse network volume
+
+; All available modules (some require configuration in modules.conf)
+; redshift github filesystem mpd wired-network wireless-network battery menu volume-bar bspwm
+; pkg keyboard memory temperature coreuse network clock volume i3-workspaces workspaces window_switch
+
+
+;;;;;; Tray is commented out ;;;;;;;;
+;tray-position = center
+;tray-padding = 10
+;tray-background = ${colors.background}
+;tray-offset-x = 20%
+
+
+
+;=====================================================
+;     i3 Bars
+;=====================================================
+
+[bar/i3-bar]
 inherit = bar/master
-monitor= eDP-1
 
-modules-left = config i3 bspwm redshift music
+; Use $ xrandr -q | grep " connected" | cut -d ' ' -f1
+monitor =
+
+modules-left = config i3-workspaces menu
+modules-center = clock
+modules-right = pkg memory temperature coreuse network volume
+
+; All available modules (some require configuration in modules.conf)
+; redshift github filesystem mpd wired-network wireless-network battery menu volume-bar bspwm
+; pkg keyboard memory temperature coreuse network clock volume i3-workspaces workspaces window_switch
+
+
+;;;;;; Tray is commented out ;;;;;;;;
+;tray-position = center
+;tray-padding = 10
+;tray-background = ${colors.background}
+;tray-offset-x = 20%
+
+
+
+;=====================================================
+;     Bspwm Bars
+;=====================================================
+
+[bar/bsp-bar]
+inherit = bar/master
+
+; Use $ xrandr -q | grep " connected" | cut -d ' ' -f1
+monitor =
+
+modules-left = config bspwm redshift music
+format-padding = 2
+format-background = #ff4279
+format-foreground = #ffcddc
+format-underline = #ff63a5
+format-overline = #ff63a5
 modules-center = xwindow
-modules-right = vpn volume cpu memory battery weather clock
+modules-right = pkg memory temperature battery coreuse clock pavolume
 
+; All available modules (some require configuration in modules.conf)
+; redshift github filesystem mpd wired-network wireless-network battery menu volume-bar bspwm
+; pkg keyboard memory temperature coreuse network clock volume i3-workspaces workspaces window_switch
+
+
+;;;;;; Tray is commented out ;;;;;;;;
 tray-position = right
-tray-detached = false
-tray-maxsize = 46
-y-transparent = false
-tray-background = ${colors.background}
-tray-underline = ${colors.foreground}
-tray-offset-x = 0
-tray-offset-y =  ${env:POLYBAR_TRAY_OFFSET_Y:0}
-tray-padding = 0
-tray-scale = 1.0
-
-
+tray-padding = 10
+tray-background = ${colors.cell}
+tray-maxsize=40

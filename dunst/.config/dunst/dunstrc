@@ -22,7 +22,7 @@
     separator_height = 2
     padding = 10
     horizontal_padding = 10
-    frame_color = "#ffffff"
+    frame_color = "#ff79c6"
     separator_color = frame
     frame_width = 1
     startup_notification = false

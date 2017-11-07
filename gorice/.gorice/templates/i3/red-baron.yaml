@@ -1,5 +1,23 @@
 # background and foreground MUST exist and MUST be hex color values
 # names cannot contain '-'
+base00: "#101010"
+base01: "#262626"
+base02: "#4d4f68"
+base03: "#616161"
+base04: "#ed7c79"
+base05: "#eeeeee"
+base06: "#f1f2f8"
+base07: "#f7f7fb"
+base08: "#830e0c"
+base09: "#FFABA9"
+base0A: "#ebff87"
+base0B: "#a72b28"
+base0C: "#ff5b6c"
+base0D: "#ed7c79"
+base0E: "#FFABA9"
+base0F: "#a72b28"
+
+
 terminal:
     background: "#101010"
     foreground: "#ffffff"
@@ -23,12 +41,13 @@ gap:
 
 
 bar:
-    height: 20
+    height: 50
     width: "100%"
     radius: 0
     bottom: "false"
     background: "#e1101010"
-    font0: "xos4 Terminus:size=12:antialias=false;2"
+    cells: "#e1101010"
+    font0: "xos4 Terminus:size=24:antialias=false;2"
 
 
 wallpaper:

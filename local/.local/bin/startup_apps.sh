@@ -9,5 +9,4 @@ sleep 10 && clipit &
 sleep 10 && ckb -b &
 /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
 nm-applet &
-pamac-tray &
 

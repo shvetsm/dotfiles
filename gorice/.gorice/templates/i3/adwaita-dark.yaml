@@ -23,12 +23,12 @@ gap:
 
 
 bar:
-    height: 24
+    height: 45
     width: "100%"
     radius: 0
     bottom: "false"
     background: "#252E35"
-    font0: "DejaVu Sans Mono:size=10:antialias=false;2"
+    font0: "DejaVu Sans Mono:size=20:antialias=false;2"
 
 
 wallpaper:

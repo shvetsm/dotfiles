@@ -1,0 +1,4 @@
+let base16colorspace=256  " Access colors present in 256 colorspace
+{{if .Data.vim_colorscheme}}
+colorscheme {{.Data.vim_colorscheme}}
+{{end}}

@@ -4,7 +4,7 @@ $LOCAL_ETC/compton/reload && \
 $LOCAL_ETC/dunst/reload ; \
     sleep 0.1 ; \
 
-nitrogen --restore
+feh --bg-fill $(cat ~/.config/wallpaper)
 xrdb ~/.Xresources
 ~/.config/polybar/reload
 ~/.config/termite/reload

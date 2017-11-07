@@ -1,20 +1,37 @@
 # background and foreground MUST exist and MUST be hex color values
 # names cannot contain '-'
+base00: "#282a36"
+base01: "#3a3c4e"
+base02: "#44475a"
+base03: "#6272a4"
+base04: "#ff5555"
+base05: "#e9e9f4"
+base06: "#f1f2f8"
+base07: "#f7f7fb"
+base08: "#ff79c6"
+base09: "#ffb86c"
+base0A: "#f1fa8c"
+base0B: "#50fa7b"
+base0C: "#8be9fd"
+base0D: "#62d6e8"
+base0E: "#bd93f9"
+base0F: "#00f769"
+
 terminal:
     background: "#282a36"
     foreground: "#f8f8f2"
     bold: "#ffffff"
     termbackground: "rgba(40,42,54,0.75)"
     font: "Hack 12"
-    colors: ["#282a36", "#ff5555", "#50fa7b", "#f1fa8c", "#ff79c6", "#bd93f9", "#8be9fd", "#6272a4", "#f8f8f2"]
+    colors: ["#282a36", "#ff5555", "#50fa7b", "#f1fa8c", "#ff79c6", "#bd93f9", "#8be9fd", "#6272a4", "#f8f8f2" ]
     # colors  0=black     1=red     2=green   3=yellow    4=blue    5=purple    6=cyan     7=grey     8=white
 
 border:
     pixels: 2
-    all: 0
+    all: 0!
     top: 0
     bottom: 0
-    color: "#ffffff"
+    color: "#ff79c6"
 
 
 gap:
@@ -23,14 +40,16 @@ gap:
 
 
 bar:
-    height: 20
+    height: 45
     width: "100%"
     radius: 0
     bottom: "false"
     background: "#44475a"
     cells: "#282a36"
-    font0: "xos4 Terminus:size=12:antialias=false;2"
+    font0: "xos4 Terminus:size=24:antialias=false;2"
 
+vim:
+    colorscheme: "base16-dracula"
 
 wallpaper:
-    saved: "/usr/share/backgrounds/volcanic.jpg"
+    saved: "/usr/share/backgrounds/road.jpg"

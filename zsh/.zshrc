@@ -7,10 +7,6 @@ EDITOR=nvim
 # Path to your oh-my-zsh installation.
 export ZSH=/home/mshvets/.oh-my-zsh
 eval "$(ssh-agent -s)" > /dev/null 2>&1
-ssh-add  ~/.ssh/adeploy_id_rsa > /dev/null 2>&1
-ssh-add  ~/.ssh/id_rsa.chariot > /dev/null 2>&1
-ssh-add  ~/.ssh/id_rsa.comcast > /dev/null 2>&1
-
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes

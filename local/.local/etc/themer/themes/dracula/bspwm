@@ -23,10 +23,10 @@ color_active_border="#282a37"
 color_presel_feedback="#9966cc"
 
 polybar_config="${CURRENT_THEME}/polybar"
-polybar_bars=(top)
+polybar_bars=("bsp-bar")
 
 if x11::monitor_connected "DP-1-2"; then
-  polybar_bars+=(bottom)
+  polybar_bars+=("bsp-bar-right")
 fi
 
 function theme::post_bspwmrc

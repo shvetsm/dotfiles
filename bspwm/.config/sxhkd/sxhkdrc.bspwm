@@ -13,8 +13,6 @@ super + h
   bspc node -f west || bspc monitor -f west || bspc desktop -f west
 super + l
   bspc node -f east || bspc monitor -f east || bspc desktop -f east
-super + {0-9}
-  bspc desktop -f {0-9}
 # Swap node
 # If no node exist, send node to monitor instead
 super + shift + h
