@@ -1,0 +1,49 @@
+#!/bin/bash
+# Based on http://openweathermap.org/current
+
+API_KEY="4df99cda6022071432d72bf1fe8409e5"
+
+# Check on http://openweathermap.org/find
+CITY_ID="4560349"
+#CITY_ID="${BLOCK_INSTANCE}"
+
+URGENT_LOWER=40
+URGENT_HIGHER=90
+
+ICON_SUNNY=""
+ICON_CLOUDY=""
+ICON_RAINY=""
+ICON_STORM=""
+ICON_SNOW=""
+ICON_FOG=""
+
+SYMBOL_CELSIUS="℉"
+
+WEATHER_URL="http://api.openweathermap.org/data/2.5/weather?id=${CITY_ID}&appid=${API_KEY}&units=imperial"
+
+WEATHER_INFO=$(wget -qO- "${WEATHER_URL}")
+WEATHER_MAIN=$(echo "${WEATHER_INFO}" | grep -o -e '\"main\":\"[a-Z]*\"' | awk -F ':' '{print $2}' | tr -d '"')
+WEATHER_TEMP=$(echo "${WEATHER_INFO}" | grep -o -e '\"temp\":\-\?[0-9]*' | awk -F ':' '{print $2}' | tr -d '"')
+TEMP_STR=""
+
+if [[ "${WEATHER_TEMP}" -lt "${URGENT_LOWER}" ]] ; then
+  TEMP_STR="%{F#8be9fd}${WEATHER_TEMP}${SYMBOL_CELSIUS}"
+elif [[ "${WEATHER_TEMP}" -gt "${URGENT_HIGHER}" ]]; then
+  TEMP_STR="%{F#ffb86c}${WEATHER_TEMP}${SYMBOL_CELSIUS}"
+else
+  TEMP_STR="%{F#50fa7b}${WEATHER_TEMP}${SYMBOL_CELSIUS}"
+fi
+
+if [[ "${WEATHER_MAIN}" = *Snow* ]]; then
+  echo "%{F#8be9fd}${ICON_SNOW} ${TEMP_STR}"
+elif [[ "${WEATHER_MAIN}" = *Rain* ]] || [[ "${WEATHER_MAIN}" = *Drizzle* ]]; then
+  echo "%{F#6272a4}${ICON_RAINY} ${TEMP_STR}"
+elif [[ "${WEATHER_MAIN}" = *Cloud* ]]; then
+  echo "%{F#wf8f8f2}${ICON_CLOUDY} ${TEMP_STR}"
+elif [[ "${WEATHER_MAIN}" = *Clear* ]]; then
+  echo "%{F#ffb86c}${ICON_SUNNY} ${TEMP_STR}"
+elif [[ "${WEATHER_MAIN}" = *Fog* ]] || [[ "${WEATHER_MAIN}" = *Mist* ]]; then
+  echo "%{F#f8f8f2}${ICON_FOG} ${TEMP_STR}"
+else
+  echo "%{F#50fa7b}${WEATHER_MAIN} ${TEMP_STR}"
+fi

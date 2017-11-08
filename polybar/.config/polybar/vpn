@@ -1,0 +1,6 @@
+#!/bin/bash
+source ~/.config/polybar/config_bar
+icon=$(pText ${MAGENTA} )
+result=$(nmcli -t con show --active | egrep ':vpn:'| awk -F':' '{ print $1 }' | paste -sd ", " -)
+_result=$(pText ${WHITE} "${result}")
+[[ -z $result ]] && echo 'down' || echo " $icon $_result "

@@ -1,4 +1,3 @@
-xautolock -time 1 -locker '$LOCAL_BIN/lockscreen' &
 pulseaudio &
 sleep 10 && wavebox &
 sleep 10 && slack &

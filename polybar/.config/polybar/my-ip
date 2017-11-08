@@ -1,0 +1,9 @@
+#!/bin/bash
+source ~/.config/polybar/config_bar
+getMyIp() {
+    local icon=$(pIcon ${MAGENTA2} ${CIP})
+    local cmd="$(curl -s https://ifcfg.me/)"
+    local cmdEnd=$(pText ${FG} "${cmd}")
+    echo "  ${icon} ${cmdEnd} ${icon}"
+}
+echo $(getMyIp)

@@ -1,0 +1,11 @@
+#!/bin/bash
+source ~/.config/polybar/config_bar
+ws() {
+	local desktops=("music" "home" "web" "three" "four" "five" "development" "seven" "eight" "comms")
+    local cmd=${desktops[$(bspc query -D -d focused --names)]}
+    local icon=$(pIcon ${CYAN} " >* " )
+    local icon2=$(pIcon ${CYAN} " *< " )
+    local cmdEnd=$(pText ${FG} "${cmd}")
+    echo "${icon} ${cmdEnd} ${icon2}"
+}
+echo $(ws)

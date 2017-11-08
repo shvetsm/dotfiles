@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-config="${1:-$LOCAL_ETC/sxhkd/sxhkdrc}"
-config_common="${3:-$LOCAL_ETC/sxhkd/sxhkdrc.common}"
+config="${1:-$HOME/.config/sxhkd/sxhkdrc}"
+config_common="${3:-$HOME/.config/sxhkd/sxhkdrc.common}"
 cmdlog="${2:-$XDG_CACHE_HOME/sxhkd/cmdlog}"
 
 # Make sure we replace any running instances

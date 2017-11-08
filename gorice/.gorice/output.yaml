@@ -214,7 +214,7 @@ configs:
         bar-radius: "0"
         bar-bottom: "false"
         bar-background: "#44475a"
-        bar-font: "xos4 Terminus:size=24:antialias=false;2"
+        bar-font: "3270 Medium Nerd Font:size=14;2"
         wallpaper: "/usr/share/backgrounds/road.jpg"
     
     i3/float.yaml:
@@ -253,7 +253,7 @@ configs:
         foreground: "#ccccce"
         bold: "#ccccce"
         term-background: "rgba(13,13,27,0.95)"
-        font: "Ubuntu Mono Nerd Font 10"
+        font: "dina 13"
         colors:
             - "#282828"
             - "#ca1444"
@@ -271,12 +271,12 @@ configs:
         bar-border-color: "#0d0d1b"
         i3gap-inner: "10"
         i3gap-outer: "0"
-        bar-height: "20"
+        bar-height: "50"
         bar-width: "100%"
         bar-radius: "0"
         bar-bottom: "false"
         bar-background: "#e10d0d1b"
-        bar-font: "xos4 Terminus:size=12:antialias=false;2"
+        bar-font: "xos4 Terminus:size=22:antialias=false;2"
         wallpaper: "/usr/share/backgrounds/red-forest.jpg"
     
     i3/green-devil.yaml:

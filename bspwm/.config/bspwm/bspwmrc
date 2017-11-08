@@ -51,7 +51,7 @@ color_active_border="#282a37"
 color_presel_feedback="#9966cc"
 
 polybar_config="${CURRENT_THEME}/polybar"
-polybar_bars=("bsp-bar")
+polybar_bars=("bsp-bar" "bottom")
 
 if x11::monitor_connected "DP-1-2"; then
   polybar_bars+=("bsp-bar-right")
@@ -229,8 +229,6 @@ fi
 # }}}
 
 # Polybar {{{
-echo "fff"
-echo ${polybar_bars}
 "${XDG_CONFIG_HOME}"/polybar/launch --kill-all \
   "${polybar_config:-${XDG_CONFIG_HOME}/polybar/config}" \
   "${polybar_bars[*]}"

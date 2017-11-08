@@ -46,7 +46,7 @@ bar:
     bottom: "false"
     background: "#44475a"
     cells: "#282a36"
-    font0: "xos4 Terminus:size=24:antialias=false;2"
+    font0: "3270 Medium Nerd Font:size=14;2"
 
 vim:
     colorscheme: "base16-dracula"
